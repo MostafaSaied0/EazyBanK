@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.eazybytes</groupId>
-	<artifactId>configserver</artifactId>
+	<artifactId>ConfigeServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>configserver</name>
 	<description>configserver project for EazyBank MicroServices</description>
