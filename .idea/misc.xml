@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/accounts/pom.xml" />
         <option value="$PROJECT_DIR$/configserver/pom.xml" />
         <option value="$PROJECT_DIR$/ConfigeServer/pom.xml" />
+        <option value="$PROJECT_DIR$/eurkaserver/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
