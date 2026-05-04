@@ -72,7 +72,7 @@
 				<version>3.4.2</version>
 				<configuration>
 					<to>
-						<image>mostafasaied/configserver:s7</image>
+						<image>mostafasaied/configserver:s8</image>
 					</to>
 				</configuration>
 			</plugin>
